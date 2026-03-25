@@ -1,0 +1,36 @@
+name: Refresh Canary Changelog
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: canary
+
+      - name: Generate changelog
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          chmod +x scripts/generate_canary_changelog.sh
+          ./scripts/generate_canary_changelog.sh
+
+      - name: Commit refreshed changelog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add CanaryChangelog.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh canary changelog"
+            git push origin HEAD:canary
+          else
+            echo "No changelog changes to commit."
+          fi
