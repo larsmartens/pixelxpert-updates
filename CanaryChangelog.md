@@ -2,6 +2,36 @@
 
 _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
+## new api misc fixes
+
+- Commit: `5f40f30`
+- Author: Siavash
+- Date: 2026-03-25
+
+## fixed CallVibrator in new api
+
+- Commit: `491a6de`
+- Author: Siavash
+- Date: 2026-03-25
+
+## CHANGELOG: Migration to the new lsposed service for module activation
+
+- Commit: `058793e`
+- Author: Siavash
+- Date: 2026-03-25
+
+## part 2 - refactored LSPosed scope activation and checking logic in HooksFragment
+
+- Commit: `0c10201`
+- Author: DrDisagree
+- Date: 2026-03-25
+
+## part 1 - migration to lsposed service for scope activation
+
+- Commit: `800526d`
+- Author: Siavash
+- Date: 2026-03-25
+
 ## improved hookhelper
 
 - Commit: `9f76f84`
@@ -61,27 +91,3 @@ _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 - Commit: `eff9f38`
 - Author: Lars Martens
 - Date: 2026-03-14
-
-## chore(fork): repoint updates to public repo
-
-- Commit: `d61d240`
-- Author: Lars Martens
-- Date: 2026-03-13
-
-## docs(fork): update remaining repository references
-
-- Commit: `cae0687`
-- Author: Lars Martens
-- Date: 2026-03-13
-
-## fix(fork): refresh updates flow and harden cloned apps
-
-- Commit: `5581e4c`
-- Author: Lars Martens
-- Date: 2026-03-13
-
-## Version update: Release (fork)
-
-- Commit: `84c9701`
-- Author: github-actions[bot]
-- Date: 2026-03-01
