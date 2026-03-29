@@ -2,6 +2,42 @@
 
 _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
+## New Crowdin translations by GitHub Action
+
+- Commit: `f4525b5`
+- Author: Crowdin Bot
+- Date: 2026-03-29
+
+## Version update: Release
+
+- Commit: `d0adcd0`
+- Author: GitHub
+- Date: 2026-03-28
+
+## CHANGELOG: IMPORTANT NOTICE: This build will only run on the newest Lsposed API (Api 101). If you are not running the newest Lsposed module, this canary version will NOT work on your device
+
+- Commit: `371b5a1`
+- Author: Siavash
+- Date: 2026-03-28
+
+## CHANGELOG: A17b3: Fixed taskbar
+
+- Commit: `f223455`
+- Author: Siavash
+- Date: 2026-03-28
+
+## CallVibrator fixed
+
+- Commit: `0c09fc3`
+- Author: Siavash
+- Date: 2026-03-27
+
+## moved CallVibrator to android package
+
+- Commit: `9e8cd2e`
+- Author: Siavash
+- Date: 2026-03-26
+
 ## new api misc fixes
 
 - Commit: `5f40f30`
@@ -43,51 +79,3 @@ _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 - Commit: `9a45846`
 - Author: Siavash
 - Date: 2026-03-23
-
-## CHANGELOG: (initial) migration to the new LSposed api 100
-
-- Commit: `10e00c0`
-- Author: Siavash
-- Date: 2026-03-23
-
-## Version update: Release
-
-- Commit: `aa47b25`
-- Author: GitHub
-- Date: 2026-03-20
-
-## fix: use repo token for updates sync
-
-- Commit: `6ed7fc9`
-- Author: Lars Martens
-- Date: 2026-03-20
-
-## chore: trigger fork canary release
-
-- Commit: `22f6fae`
-- Author: Lars Martens
-- Date: 2026-03-20
-
-## docs(fork): document fork maintenance changes
-
-- Commit: `7b4b52c`
-- Author: Lars Martens
-- Date: 2026-03-14
-
-## fix(settings): use compatible user id lookup
-
-- Commit: `fd4ee23`
-- Author: Lars Martens
-- Date: 2026-03-14
-
-## fix(updates): use larsmartens manifests via jsdelivr
-
-- Commit: `b21ac5c`
-- Author: Lars Martens
-- Date: 2026-03-14
-
-## fix(settings): tolerate retained uninstalled app records
-
-- Commit: `eff9f38`
-- Author: Lars Martens
-- Date: 2026-03-14
