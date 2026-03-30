@@ -2,6 +2,12 @@
 
 _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
+## excluded annotations from binaries as they're only needed at build time
+
+- Commit: `afca1ea`
+- Author: Siavash
+- Date: 2026-03-29
+
 ## New Crowdin translations by GitHub Action
 
 - Commit: `f4525b5`
@@ -67,15 +73,3 @@ _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 - Commit: `800526d`
 - Author: Siavash
 - Date: 2026-03-25
-
-## improved hookhelper
-
-- Commit: `9f76f84`
-- Author: Siavash
-- Date: 2026-03-24
-
-## fixed constructor find issues
-
-- Commit: `9a45846`
-- Author: Siavash
-- Date: 2026-03-23
