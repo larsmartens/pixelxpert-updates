@@ -2,6 +2,24 @@
 
 _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
+## Version update: Release
+
+- Commit: `d8f79f7`
+- Author: GitHub
+- Date: 2026-03-31
+
+## CHANGELOG: Fixed muting the screenshot sound
+
+- Commit: `3faa4e4`
+- Author: Siavash
+- Date: 2026-03-31
+
+## CHANGELOG: Statusbar long press to switch between app profiles no longer triggers QS
+
+- Commit: `92c226f`
+- Author: Siavash
+- Date: 2026-03-30
+
 ## excluded annotations from binaries as they're only needed at build time
 
 - Commit: `afca1ea`
@@ -59,17 +77,5 @@ _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 ## CHANGELOG: Migration to the new lsposed service for module activation
 
 - Commit: `058793e`
-- Author: Siavash
-- Date: 2026-03-25
-
-## part 2 - refactored LSPosed scope activation and checking logic in HooksFragment
-
-- Commit: `0c10201`
-- Author: DrDisagree
-- Date: 2026-03-25
-
-## part 1 - migration to lsposed service for scope activation
-
-- Commit: `800526d`
 - Author: Siavash
 - Date: 2026-03-25
