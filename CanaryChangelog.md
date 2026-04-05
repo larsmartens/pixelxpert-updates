@@ -2,6 +2,12 @@
 
 _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
+## New Crowdin translations by GitHub Action
+
+- Commit: `d801df5`
+- Author: Crowdin Bot
+- Date: 2026-04-05
+
 ## Version update: Release
 
 - Commit: `d8f79f7`
@@ -65,17 +71,5 @@ _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 ## new api misc fixes
 
 - Commit: `5f40f30`
-- Author: Siavash
-- Date: 2026-03-25
-
-## fixed CallVibrator in new api
-
-- Commit: `491a6de`
-- Author: Siavash
-- Date: 2026-03-25
-
-## CHANGELOG: Migration to the new lsposed service for module activation
-
-- Commit: `058793e`
 - Author: Siavash
 - Date: 2026-03-25
