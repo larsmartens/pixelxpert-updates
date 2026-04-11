@@ -2,6 +2,30 @@
 
 _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
+## Version update: Release
+
+- Commit: `5941051`
+- Author: GitHub
+- Date: 2026-04-10
+
+## CHANGELOG: A17b3: fixed auto sleep on face-up mode
+
+- Commit: `a6f6947`
+- Author: Siavash
+- Date: 2026-04-10
+
+## moving default classloader to modpack load time. - yes this is important -
+
+- Commit: `f15b55a`
+- Author: Siavash
+- Date: 2026-04-10
+
+## leaving code generation to javapoet
+
+- Commit: `1972a95`
+- Author: Siavash
+- Date: 2026-04-10
+
 ## New Crowdin translations by GitHub Action
 
 - Commit: `d801df5`
@@ -49,27 +73,3 @@ _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 - Commit: `371b5a1`
 - Author: Siavash
 - Date: 2026-03-28
-
-## CHANGELOG: A17b3: Fixed taskbar
-
-- Commit: `f223455`
-- Author: Siavash
-- Date: 2026-03-28
-
-## CallVibrator fixed
-
-- Commit: `0c09fc3`
-- Author: Siavash
-- Date: 2026-03-27
-
-## moved CallVibrator to android package
-
-- Commit: `9e8cd2e`
-- Author: Siavash
-- Date: 2026-03-26
-
-## new api misc fixes
-
-- Commit: `5f40f30`
-- Author: Siavash
-- Date: 2026-03-25
