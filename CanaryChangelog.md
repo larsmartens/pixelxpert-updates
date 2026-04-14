@@ -2,6 +2,30 @@
 
 _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
+## dependency update
+
+- Commit: `5787d4f`
+- Author: Siavash
+- Date: 2026-04-12
+
+## docs: capture android 16 stability workflow
+
+- Commit: `4292ff2`
+- Author: Lars Martens
+- Date: 2026-04-13
+
+## fix(reflection): propagate hook throwables to after callbacks
+
+- Commit: `6d25d4e`
+- Author: Lars Martens
+- Date: 2026-04-13
+
+## fix(xposed): avoid concurrent preference reload crashes
+
+- Commit: `565ab46`
+- Author: Lars Martens
+- Date: 2026-04-13
+
 ## Version update: Release
 
 - Commit: `5941051`
@@ -49,27 +73,3 @@ _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 - Commit: `92c226f`
 - Author: Siavash
 - Date: 2026-03-30
-
-## excluded annotations from binaries as they're only needed at build time
-
-- Commit: `afca1ea`
-- Author: Siavash
-- Date: 2026-03-29
-
-## New Crowdin translations by GitHub Action
-
-- Commit: `f4525b5`
-- Author: Crowdin Bot
-- Date: 2026-03-29
-
-## Version update: Release
-
-- Commit: `d0adcd0`
-- Author: GitHub
-- Date: 2026-03-28
-
-## CHANGELOG: IMPORTANT NOTICE: This build will only run on the newest Lsposed API (Api 101). If you are not running the newest Lsposed module, this canary version will NOT work on your device
-
-- Commit: `371b5a1`
-- Author: Siavash
-- Date: 2026-03-28
