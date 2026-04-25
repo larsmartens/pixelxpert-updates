@@ -2,74 +2,98 @@
 
 _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
-## dependency update
+## fix: restore missing scanner import
 
-- Commit: `5787d4f`
-- Author: Siavash
-- Date: 2026-04-12
-
-## docs: capture android 16 stability workflow
-
-- Commit: `4292ff2`
+- Commit: `de4d779`
 - Author: Lars Martens
-- Date: 2026-04-13
+- Date: 2026-04-24
 
-## fix(reflection): propagate hook throwables to after callbacks
+## fix: restore missing consumer import
 
-- Commit: `6d25d4e`
+- Commit: `4c17e37`
 - Author: Lars Martens
-- Date: 2026-04-13
+- Date: 2026-04-24
 
-## fix(xposed): avoid concurrent preference reload crashes
+## fix: derive canary version from module metadata
 
-- Commit: `565ab46`
+- Commit: `752b53f`
 - Author: Lars Martens
-- Date: 2026-04-13
+- Date: 2026-04-24
+
+## fix: restore workflows before merge commit
+
+- Commit: `f7ecdb5`
+- Author: Lars Martens
+- Date: 2026-04-24
+
+## fix: preserve fork workflows during upstream sync
+
+- Commit: `26b8a75`
+- Author: Lars Martens
+- Date: 2026-04-24
 
 ## Version update: Release
 
-- Commit: `5941051`
+- Commit: `143645e`
 - Author: GitHub
-- Date: 2026-04-10
+- Date: 2026-04-17
 
-## CHANGELOG: A17b3: fixed auto sleep on face-up mode
+## CHANGELOG: Fixing kill forground app (by pushing nexus launcher to work the way it should)
 
-- Commit: `a6f6947`
+- Commit: `805e19a`
 - Author: Siavash
-- Date: 2026-04-10
+- Date: 2026-04-17
 
-## moving default classloader to modpack load time. - yes this is important -
+## Update CanaryChangelog.md
 
-- Commit: `f15b55a`
+- Commit: `555e187`
 - Author: Siavash
-- Date: 2026-04-10
+- Date: 2026-04-17
 
-## leaving code generation to javapoet
+## moving changelog generation to AFTER gradle run
 
-- Commit: `1972a95`
+- Commit: `5765353`
 - Author: Siavash
-- Date: 2026-04-10
-
-## New Crowdin translations by GitHub Action
-
-- Commit: `d801df5`
-- Author: Crowdin Bot
-- Date: 2026-04-05
+- Date: 2026-04-17
 
 ## Version update: Release
 
-- Commit: `d8f79f7`
+- Commit: `7481c5d`
 - Author: GitHub
-- Date: 2026-03-31
+- Date: 2026-04-17
 
-## CHANGELOG: Fixed muting the screenshot sound
+## CHANGELOG: Temporary workaround for hooks page not able to connect to Xposed service (until they fix it)
 
-- Commit: `3faa4e4`
+- Commit: `cabbe51`
 - Author: Siavash
-- Date: 2026-03-31
+- Date: 2026-04-17
 
-## CHANGELOG: Statusbar long press to switch between app profiles no longer triggers QS
+## Update CanaryChangelog.md
 
-- Commit: `92c226f`
+- Commit: `8d23d2a`
 - Author: Siavash
-- Date: 2026-03-30
+- Date: 2026-04-15
+
+## passing versionName to changelog
+
+- Commit: `ef75adb`
+- Author: Siavash
+- Date: 2026-04-15
+
+## Version update: Release
+
+- Commit: `7cfbc23`
+- Author: GitHub
+- Date: 2026-04-15
+
+## CHANGELOG: testing the new canary buildscript - no module changes
+
+- Commit: `7ab72bd`
+- Author: Siavash
+- Date: 2026-04-15
+
+## part 2 - migration of magisk module build to gradle script
+
+- Commit: `96cbfe1`
+- Author: Siavash
+- Date: 2026-04-15
