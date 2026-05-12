@@ -2,6 +2,12 @@
 
 _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
+## fixed string errors cause by code-replace-all
+
+- Commit: `e7ea616`
+- Author: Siavash
+- Date: 2026-05-09
+
 ## Version update: Release (fork)
 
 - Commit: `ad3202b`
@@ -71,23 +77,5 @@ _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 ## fix: restore missing consumer import
 
 - Commit: `4c17e37`
-- Author: Lars Martens
-- Date: 2026-04-24
-
-## fix: derive canary version from module metadata
-
-- Commit: `752b53f`
-- Author: Lars Martens
-- Date: 2026-04-24
-
-## fix: restore workflows before merge commit
-
-- Commit: `f7ecdb5`
-- Author: Lars Martens
-- Date: 2026-04-24
-
-## fix: preserve fork workflows during upstream sync
-
-- Commit: `26b8a75`
 - Author: Lars Martens
 - Date: 2026-04-24
