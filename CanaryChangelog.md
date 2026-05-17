@@ -2,6 +2,12 @@
 
 _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
+## New Crowdin translations by GitHub Action
+
+- Commit: `e396988`
+- Author: Crowdin Bot
+- Date: 2026-05-17
+
 ## fixed string errors cause by code-replace-all
 
 - Commit: `e7ea616`
@@ -67,15 +73,3 @@ _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 - Commit: `4a5a40b`
 - Author: Lars Martens
 - Date: 2026-04-26
-
-## fix: restore missing scanner import
-
-- Commit: `de4d779`
-- Author: Lars Martens
-- Date: 2026-04-24
-
-## fix: restore missing consumer import
-
-- Commit: `4c17e37`
-- Author: Lars Martens
-- Date: 2026-04-24
