@@ -2,6 +2,54 @@
 
 _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
+## Version update: Release
+
+- Commit: `e90b998`
+- Author: GitHub
+- Date: 2026-06-20
+
+## canary release
+
+- Commit: `f61ff5c`
+- Author: Siavash
+- Date: 2026-06-20
+
+## fixed service.sh not having proper permissions
+
+- Commit: `0b252ef`
+- Author: Siavash
+- Date: 2026-06-20
+
+## CHANGELOG: Reverted some unintentional changes
+
+- Commit: `0b96503`
+- Author: Siavash
+- Date: 2026-06-20
+
+## Version update: Release
+
+- Commit: `160eaea`
+- Author: GitHub
+- Date: 2026-06-19
+
+## CHANGELOG: fixed compatibility with official LSposed. (For reasons unknown to me, they prefer to block remote activation. So, from now on, no automated activation for you: do it yourself. Do let me know if you managed to understand their mindset)
+
+- Commit: `37308ce`
+- Author: Siavash
+- Date: 2026-06-19
+
+## Version update: Release
+
+- Commit: `588165c`
+- Author: GitHub
+- Date: 2026-06-19
+
+## CHANGELOG: Fixed PX boot-looping in certain conditions
+
+- Commit: `5b405b9`
+- Author: Siavash
+- Date: 2026-06-19
+
 ## Version update: Release (fork)
 
 - Commit: `5ede56a`
@@ -37,39 +85,3 @@ _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 - Commit: `1a39991`
 - Author: github-actions[bot]
 - Date: 2026-05-24
-
-## New Crowdin translations by GitHub Action
-
-- Commit: `ec63a31`
-- Author: Crowdin Bot
-- Date: 2026-05-24
-
-## Version update: Release
-
-- Commit: `d39067b`
-- Author: GitHub
-- Date: 2026-05-23
-
-## CHANGELOG: A17QPR1b3: Fixed statusbar gestures
-
-- Commit: `5d44f66`
-- Author: Siavash
-- Date: 2026-05-23
-
-## CHANGELOG: A17QPR1b3: Fixed Screen gestures and related system UI crash
-
-- Commit: `9aa964f`
-- Author: Siavash
-- Date: 2026-05-23
-
-## New Crowdin translations by GitHub Action
-
-- Commit: `e396988`
-- Author: Crowdin Bot
-- Date: 2026-05-17
-
-## CHANGELOG: Added option to hide navigation bar insets (Thanks to eXtreames@Github)
-
-- Commit: `c85025a`
-- Author: Siavash
-- Date: 2026-05-12
