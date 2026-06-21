@@ -2,6 +2,12 @@
 
 _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
+## New Crowdin translations by GitHub Action
+
+- Commit: `3f76136`
+- Author: Crowdin Bot
+- Date: 2026-06-21
+
 ## Version update: Release
 
 - Commit: `e90b998`
@@ -73,15 +79,3 @@ _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 - Commit: `f933a24`
 - Author: Siavash
 - Date: 2026-06-13
-
-## added cast-included methods for ease of use
-
-- Commit: `7c1cceb`
-- Author: Siavash
-- Date: 2026-05-24
-
-## Version update: Release (fork)
-
-- Commit: `1a39991`
-- Author: github-actions[bot]
-- Date: 2026-05-24
