@@ -2,6 +2,14 @@
 
 _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
+## Add archived notice to README
+
+Added an archived notice indicating the project has been shut down indefinitely.
+
+- Commit: `354cb46`
+- Author: Siavash
+- Date: 2026-06-21
+
 ## New Crowdin translations by GitHub Action
 
 - Commit: `3f76136`
@@ -66,16 +74,4 @@ _Latest commit titles and messages from `larsmartens/PixelXpert-fork@canary`._
 
 - Commit: `9cbcc3b`
 - Author: GitHub
-- Date: 2026-06-13
-
-## introducing a callmethod method that doesn't need casting
-
-- Commit: `3587c2d`
-- Author: Siavash
-- Date: 2026-06-13
-
-## CHANGELOG: A17qpr1b4: Fixed icon transparency (I couldn't make a fix, but Gemini could!)
-
-- Commit: `f933a24`
-- Author: Siavash
 - Date: 2026-06-13
